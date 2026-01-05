@@ -6,7 +6,7 @@ Machine learning models for Arrhythmogenic Right Ventricular Cardiomyopathy (ARV
 
 - Implement a reproducible ML pipeline for ARVC diagnosis.
 - Compare eight supervised learning algorithms on a multimodal feature set.
-- Perform statistical comparison of models (e.g., Friedman test, Nemenyi post-hoc).
+- Perform statistical comparison of models (Friedman test, Nemenyi post-hoc).
 - Evaluate multimodal and ECG-only variants for Gradient Boosted Trees.
 - Provide interpretable outputs aligned with Task Force Criteria for ARVC diagnosis.
 
