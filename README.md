@@ -24,6 +24,6 @@ Machine learning models for Arrhythmogenic Right Ventricular Cardiomyopathy (ARV
   - `tabnet.py` – TabNet model (stub).
   - `decision_tree.py` – Decision Tree model (stub).
   
-#This repository does not include any clincial data. All data loading is handled via stub functions in src/arvc_ml/data.py that must be implemented locally with de-identified datasets
+#This repository does not include any clinical data. All data loading is handled via stub functions in src/arvc_ml/data.py that must be implemented locally with de-identified datasets
 
 > **Note:** Clinical data are **not** included in this repository. Scripts expect a local file (e.g., `dataset_knn_imputed_1.csv`) placed in the project root and ignored by git.
